@@ -1,6 +1,7 @@
 ## Sarah Louise Prentice's Homepage
 
-I have recently entered the world of computer programming. :computer: Feel free to follow my projects and my progress.
+I have recently entered the world of computer programming. :octocat: <br/>
+Feel free to follow my projects and my progress.
 
 ### About Me :dancer: :muscle: :computer: 
 ```
@@ -13,7 +14,7 @@ This page has been dedicated for the purpose of furthering and documenting my ca
 ```
 
 ### Updates on progress 
-:octocat: :memo:
+:memo:
 
 :pushpin: 12/12/17 I created this page to track progress and practise with GitPages. <br/>
 :pushpin: 12/12/17 Applied for ICT apprenticeships. Still waiting for reply from Imperial Uni. <br/>
