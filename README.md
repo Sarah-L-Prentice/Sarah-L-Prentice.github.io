@@ -1,4 +1,4 @@
-## Welcome to Sarah Louise Prentice's Homepage
+## Sarah Louise Prentice's Homepage
 
 I have recently entered the world of computer programming. Feel free to follow my projects and my progress using this page.
 
