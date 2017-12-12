@@ -1,36 +1,22 @@
 ## Welcome to Sarah Louise Prentice's Homepage
 
-I have recently entered the world of computer programming. <br/>
-Feel free to follow my projects and my progress using this page.
+I have recently entered the world of computer programming. Feel free to follow my projects and my progress using this page.
 
 ### About Me
 
-I am currently working as a Teacher in a Secondary School. I teach French and Maths. I also do group fitness classes such as Bodyattack and Bodypump. In my free time I sometimes rock climb (mainly indoor) and am trying to learn how to code and improve and broaden my ICT skills.
+- I am currently working as a Teacher in a Secondary School. I teach French and Maths. <br/>
+- I also do group fitness classes such as Bodyattack and Bodypump in my spare time. <br/>
+- In my free time I sometimes rock climb (mainly indoor). <br/>
+- I am also trying to learn how to code and improve and broaden my ICT skills. This page has been dedicated for that purpose.<br/>
 
-```markdown
-Updates
+```
+##**Updates on progress**
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. 12/12/17 I created this webpage. Something I have been meaning to do.
+2. 12/12/17 Applied for ICT apprenticeships. Still waiting 
+3. 12/12/17 Continued reading _"Problem Solving in C++"_ by `Walter Savitch and Kendrick Mock` [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sarah-L-Prentice/Sarah-L-Prentice.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Email: prens0022@gmail.com
