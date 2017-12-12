@@ -16,7 +16,8 @@ This page has been dedicated for the purpose of furthering and documenting my ca
 
 1. 12/12/17 I created this webpage. Something I have been meaning to do for a while.
 2. 12/12/17 Applied for ICT apprenticeships. Still waiting 
-3. 12/12/17 Continued reading _"Problem Solving in C++"_ by `Walter Savitch and Kendrick Mock` 
+3. 12/12/17 Continued reading _"Problem Solving in C++"_ by Walter Savitch and Kendrick Mock
+
 [Amazon.co.uk link for book](https://www.amazon.co.uk/Problem-Solving-Global-Walter-Savitch/dp/1292018240/ref=sr_1_1?ie=UTF8&qid=1513089797&sr=8-1&keywords=problem+solving++c%2B%2B)
 
 
