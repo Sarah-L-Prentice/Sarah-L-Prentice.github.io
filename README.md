@@ -19,7 +19,7 @@ This page has been dedicated for the purpose of furthering and documenting my ca
 :pushpin: 12/12/17 I created this page to track progress and practise with GitPages. <br/>
 :pushpin: 12/12/17 Applied for ICT apprenticeships. Still waiting for reply from Imperial Uni. <br/>
 :pushpin: 12/12/17 Continued reading _"Problem Solving in C++"_ by Walter Savitch and Kendrick Mock. <br/>
-[Amazon.co.uk link for book](https://www.amazon.co.uk/Problem-Solving-Global-Walter-Savitch/dp/1292018240/ref=sr_1_1?ie=UTF8&qid=1513089797&sr=8-1&keywords=problem+solving++c%2B%2B)
+[www.amazon.co.uk/Problem-Solving-Global-Walter-Savitch](https://www.amazon.co.uk/Problem-Solving-Global-Walter-Savitch/dp/1292018240/ref=sr_1_1?ie=UTF8&qid=1513089797&sr=8-1&keywords=problem+solving++c%2B%2B)
 
 
 ### Contact
