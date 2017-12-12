@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sarah Louise Prentice's Homepage
 
 You can use the [editor on GitHub](https://github.com/Sarah-L-Prentice/Sarah-L-Prentice.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
