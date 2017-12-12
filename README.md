@@ -1,8 +1,6 @@
 ## Welcome to Sarah Louise Prentice's Homepage
 
-You can use the [editor on GitHub](https://github.com/Sarah-L-Prentice/Sarah-L-Prentice.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have recently entered the world of computer programming. Feel free to follow my projects and my progress using this page.
 
 ### Markdown
 
