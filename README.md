@@ -1,8 +1,8 @@
 ## Sarah Louise Prentice's Homepage
-:dancers: :muscle: :computer: 
+
 I have recently entered the world of computer programming. :computer: Feel free to follow my projects and my progress.
 
-### About Me
+### About Me :dancers: :muscle: :computer: 
 ```
 - I am currently working as a Teacher in a Secondary School. I teach French and Maths. 
 - I also do group fitness classes such as Bodyattack and Bodypump in my spare time.
