@@ -1,4 +1,4 @@
-## Welcome to Sarah Louise Prentice's Homepage
+## Welcome to **Sarah Louise Prentice**'s Homepage
 
 I have recently entered the world of computer programming. Feel free to follow my projects and my progress using this page.
 
@@ -10,13 +10,14 @@ I have recently entered the world of computer programming. Feel free to follow m
 - I am also trying to learn how to code and improve and broaden my ICT skills. This page has been dedicated for that purpose.<br/>
 
 ```
-##**Updates on progress**
+**Updates on progress**
 
-1. 12/12/17 I created this webpage. Something I have been meaning to do.
+1. 12/12/17 I created this webpage. Something I have been meaning to do for a while.
 2. 12/12/17 Applied for ICT apprenticeships. Still waiting 
 3. 12/12/17 Continued reading _"Problem Solving in C++"_ by `Walter Savitch and Kendrick Mock` [Link](url) and ![Image](src)
 ```
-
+<br/>
+<br/>
 ### Contact
 
 Email: prens0022@gmail.com
