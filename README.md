@@ -8,7 +8,7 @@ Feel free to follow my projects and my progress using this page.
 I am currently working as a Teacher in a Secondary School. I teach French and Maths. I also do group fitness classes such as Bodyattack and Bodypump. In my free time I sometimes rock climb (mainly indoor) and am trying to learn how to code and improve and broaden my ICT skills.
 
 ```markdown
-Syntax highlighted code block
+Updates
 
 # Header 1
 ## Header 2
