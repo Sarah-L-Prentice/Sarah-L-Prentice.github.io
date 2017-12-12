@@ -1,6 +1,7 @@
 ## Welcome to Sarah Louise Prentice's Homepage
 
-I have recently entered the world of computer programming. Feel free to follow my projects and my progress using this page.
+I have recently entered the world of computer programming. <br/>
+Feel free to follow my projects and my progress using this page.
 
 ### Markdown
 
